@@ -1,0 +1,13 @@
+C:\Users\menwang\Source\repos\codetests\codetests\obj\Debug\netcoreapp3.1\codetests.csprojAssemblyReference.cache
+C:\Users\menwang\Source\repos\codetests\codetests\obj\Debug\netcoreapp3.1\codetests.AssemblyInfoInputs.cache
+C:\Users\menwang\Source\repos\codetests\codetests\obj\Debug\netcoreapp3.1\codetests.AssemblyInfo.cs
+C:\Users\menwang\Source\repos\codetests\codetests\obj\Debug\netcoreapp3.1\codetests.csproj.CoreCompileInputs.cache
+C:\Users\menwang\Source\repos\codetests\codetests\bin\Debug\netcoreapp3.1\codetests.exe
+C:\Users\menwang\Source\repos\codetests\codetests\bin\Debug\netcoreapp3.1\codetests.deps.json
+C:\Users\menwang\Source\repos\codetests\codetests\bin\Debug\netcoreapp3.1\codetests.runtimeconfig.json
+C:\Users\menwang\Source\repos\codetests\codetests\bin\Debug\netcoreapp3.1\codetests.runtimeconfig.dev.json
+C:\Users\menwang\Source\repos\codetests\codetests\bin\Debug\netcoreapp3.1\codetests.dll
+C:\Users\menwang\Source\repos\codetests\codetests\bin\Debug\netcoreapp3.1\codetests.pdb
+C:\Users\menwang\Source\repos\codetests\codetests\obj\Debug\netcoreapp3.1\codetests.dll
+C:\Users\menwang\Source\repos\codetests\codetests\obj\Debug\netcoreapp3.1\codetests.pdb
+C:\Users\menwang\Source\repos\codetests\codetests\obj\Debug\netcoreapp3.1\codetests.genruntimeconfig.cache
